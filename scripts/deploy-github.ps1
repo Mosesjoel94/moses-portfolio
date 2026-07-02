@@ -1,5 +1,7 @@
-git add .
+﻿git add .
 
-git commit -m "Portfolio production release"
+git commit -m "Portfolio update"
 
-git push origin master
+git branch -M main
+
+git push -u origin main
