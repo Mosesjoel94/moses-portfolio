@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, system-ui, sans-serif;
+  background: #020617;
+  color: white;
+
+  background-image:
+    radial-gradient(circle at top left, rgba(59,130,246,.15), transparent 35%),
+    radial-gradient(circle at bottom right, rgba(168,85,247,.15), transparent 35%);
+}
+
+* {
+  box-sizing: border-box;
+}
