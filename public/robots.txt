@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://moses-portfolio-delta-gilt.vercel.app/sitemap.xml
