@@ -6,6 +6,7 @@ import Skills from "./components/Skills";
 import TechStack from "./components/TechStack";
 import Services from "./components/Services";
 import Projects from "./components/Projects";
+import GithubProjects from "./components/GithubProjects";
 import Achievements from "./components/Achievements";
 import Experience from "./components/Experience";
 import ContactCard from "./components/ContactCard";
@@ -22,6 +23,7 @@ function App() {
       <TechStack />
       <Services />
       <Projects />
+      <GithubProjects />
       <Achievements />
       <Experience />
       <ContactCard />

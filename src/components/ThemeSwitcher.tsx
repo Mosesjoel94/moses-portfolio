@@ -1,33 +1,34 @@
-﻿import { useState } from "react";
+﻿import { useTheme } from "../context/ThemeContext";
 
 function ThemeSwitcher() {
 
-  const [, setTheme] = useState("dark");
+  const { theme, setTheme } = useTheme();
+
+  const themes = [
+    "dark",
+    "corporate",
+    "futuristic",
+  ] as const;
 
   return (
 
-    <div className="flex gap-3">
+    <div className="flex gap-2">
 
-      <button
-        className="rounded-lg border border-slate-700 px-3 py-2"
-        onClick={() => setTheme("dark")}
-      >
-        Dark
-      </button>
+      {themes.map(item => (
 
-      <button
-        className="rounded-lg border border-slate-700 px-3 py-2"
-        onClick={() => setTheme("corporate")}
-      >
-        Corporate
-      </button>
+        <button
+          key={item}
+          onClick={() => setTheme(item)}
+          className={
+            theme === item
+              ? "rounded-lg border px-3 py-2 font-bold"
+              : "rounded-lg border border-slate-700 px-3 py-2"
+          }
+        >
+          {item}
+        </button>
 
-      <button
-        className="rounded-lg border border-slate-700 px-3 py-2"
-        onClick={() => setTheme("futuristic")}
-      >
-        Futuristic
-      </button>
+      ))}
 
     </div>
 
