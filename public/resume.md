@@ -1,16 +1,28 @@
 ﻿# Moses Joel
 
-**Full-Stack Developer | AI Engineer | Software Developer**
+## Full-Stack Developer | AI Engineer | Software Developer
 
-Email: mosesjoel2003@gmail.com  
-Phone: +254 729 559 759  
-GitHub: https://github.com/Mosesjoel94
+Location: Nairobi, Kenya
 
-## Professional Summary
+Email: mosesjoel2003@gmail.com
 
-Full-stack developer and AI engineer specializing in React, Node.js, PHP,
-Python, Flutter, MySQL, and modern AI technologies. Passionate about building
-scalable systems and solving real-world problems with software.
+Phone: +254 729 559 759
+
+GitHub:
+https://github.com/Mosesjoel94
+
+LinkedIn:
+https://www.linkedin.com
+
+---
+
+## Education
+
+### Moi University
+Bachelor of Science in Informatics
+2024 - 2028
+
+---
 
 ## Technical Skills
 
@@ -23,15 +35,26 @@ scalable systems and solving real-world problems with software.
 - Artificial Intelligence
 - REST APIs
 - Git & GitHub
+- TypeScript
+- Tailwind CSS
+
+---
 
 ## Projects
 
 ### LifeLink Ambulance System
-Emergency response and ambulance tracking platform.
+Emergency ambulance dispatch and tracking solution.
 
 ### Vehicle Marketplace
-Full-stack marketplace for buying and selling vehicles.
+Modern online marketplace for vehicle sales.
 
 ### AI Creator Studio
-AI-powered content creation platform.
+AI-powered platform for digital content generation.
 
+---
+
+## Professional Summary
+
+Passionate full-stack developer and AI engineer focused on
+creating scalable digital solutions that solve real-world problems.
+Experienced in web, mobile, backend, and AI technologies.
