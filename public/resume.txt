@@ -1,0 +1,16 @@
+Moses Joel
+Full-Stack Developer | AI Engineer
+
+Skills:
+- React
+- Node.js
+- PHP
+- Python
+- Flutter
+- MySQL
+- Artificial Intelligence
+
+Projects:
+- LifeLink Ambulance System
+- AI Creator Studio
+- Vehicle Marketplace
